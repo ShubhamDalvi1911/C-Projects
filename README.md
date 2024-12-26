@@ -51,8 +51,7 @@
   Player 2 guessed the number in 2 guesses.<br>
   
   ***PLAYER 2 is the winner! Congrats:)***<br>
-
-
+<hr><hr>
 # Tic-Tac-Toe Game in C
 
 # Overview
