@@ -6,47 +6,47 @@
 # Features
 
   Random number generation for a fun and fair game.<br>
-  Player vs. Player mode.
-  Feedback to help players guess the number (higher/lower hints).
-  Displays the winner or declares a tie based on the number of guesses.
+  Player vs. Player mode.<br>
+  Feedback to help players guess the number (higher/lower hints).<br>
+  Displays the winner or declares a tie based on the number of guesses.<br>
 
 # How to Play
 
-  Run the program.
-  Choose an option from the menu:
-    1. START: Begin a new game.
-    2. PLAY Again: Play another round.
-    3. EXIT: Exit the game.
-  Each player takes turns guessing the number between 1 and 100.
-  After each guess, the program provides feedback:
-    "Guess the LOWER number" if the guess is too high.
-    "Guess the HIGHER number" if the guess is too low.
-  The player who guesses the number in fewer attempts wins.
-  If both players take the same number of attempts, it's a tie!
+  Run the program.<br>
+  Choose an option from the menu:<br>
+    1. START: Begin a new game.<br>
+    2. PLAY Again: Play another round.<br>
+    3. EXIT: Exit the game.<br>
+  Each player takes turns guessing the number between 1 and 100.<br>
+  After each guess, the program provides feedback:<br>
+    "Guess the LOWER number" if the guess is too high.<br>
+    "Guess the HIGHER number" if the guess is too low.<br>
+  The player who guesses the number in fewer attempts wins.<br>
+  If both players take the same number of attempts, it's a tie!<br>
 
 # Example
-  ====GUESS GAME 1 TO 100====
-  1.START
-  2.PLAY Again
-  3.EXIT
-  Enter your choice(1,2,3): 1
+  ====GUESS GAME 1 TO 100====<br>
+  1.START<br>
+  2.PLAY Again<br>
+  3.EXIT<br>
+  Enter your choice(1,2,3): 1<br>
   
-  =>PLAYER 1 it's your turn!
-  Guess the number: 50
-  Guess the LOWER number please:)
-  Guess the number: 25
-  Guess the HIGHER number please:)
-  Guess the number: 30
-  Congrats:) You guessed it!
+  =>PLAYER 1 it's your turn!<br>
+  Guess the number: 50<br>
+  Guess the LOWER number please:)<br>
+  Guess the number: 25<br>
+  Guess the HIGHER number please:)<br>
+  Guess the number: 30<br>
+  Congrats:) You guessed it!<br>
   
-  Player 1 guessed the number in 3 guesses.
+  Player 1 guessed the number in 3 guesses.<br>
   
-  =>PLAYER 2 it's your turn!
-  Guess the number: 60
-  Guess the LOWER number please:)
-  Guess the number: 40
-  Congrats:) You guessed it!
+  =>PLAYER 2 it's your turn!<br>
+  Guess the number: 60<br>
+  Guess the LOWER number please:)<br>
+  Guess the number: 40<br>
+  Congrats:) You guessed it!<br>
   
-  Player 2 guessed the number in 2 guesses.
+  Player 2 guessed the number in 2 guesses.<br>
   
-  ***PLAYER 2 is the winner! Congrats:)***
+  ***PLAYER 2 is the winner! Congrats:)***<br>
