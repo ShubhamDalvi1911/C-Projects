@@ -1,6 +1,6 @@
 # C-Projects
 
-# **Guess Game 1 to 100**
+# Guess Game 1 to 100
   A simple C program where two players compete to guess a randomly generated number between 1 and 100. The player who guesses the number with fewer attempts wins the game!
 
 # Features
@@ -50,3 +50,36 @@
   Player 2 guessed the number in 2 guesses.<br>
   
   ***PLAYER 2 is the winner! Congrats:)***<br>
+
+
+# Tic-Tac-Toe Game in C
+
+# Overview
+  A simple two-player Tic-Tac-Toe game implemented in C. Players take turns marking a 3x3 grid with X or O. The first to align three marks in a row, column, or diagonal wins.
+
+# Features
+  Two-player mode.<br>
+  Console-based board display.<br>
+  Validates inputs.<br>
+  Detects wins or draws.<br>
+
+# How to Play
+  Enter a number (1-9) corresponding to a grid cell:<br>
+
+     1 | 2 | 3
+    -----------
+     4 | 5 | 6
+    -----------
+     7 | 8 | 9
+
+  The board updates after each move.<br>
+  Win by aligning three marks or draw if all cells are filled.<br>
+
+# Key Functions
+  main(): Runs the game loop, processes moves, and checks game status.<br>
+  printBoard(): Displays the game board.<br>
+  checkWin(): Determines if there’s a winner or draw.<br>
+
+# Notes
+  Replace system("cls") with system("clear") for Linux systems.<br>
+  Input must be a number between 1 and 9.<br>
