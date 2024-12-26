@@ -1,6 +1,6 @@
 # C-Projects
 
-**Guess Game 1 to 100**
+# **Guess Game 1 to 100**
   A simple C program where two players compete to guess a randomly generated number between 1 and 100. The player who guesses the number with fewer attempts wins the game!
 
 # Features
